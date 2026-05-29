@@ -1,0 +1,13 @@
+{
+  "name": "nUSD",
+  "website": "https://yourwebsite.com",
+  "description": "nUSD is a transparent ERC-20 stablecoin-style token on Polygon network.",
+  "explorer": "https://polygonscan.com/token/0x58064eF9c208DAd9E32CA2C9F6CDaC40199B60B7",
+  "type": "ERC20",
+  "symbol": "nUSD",
+  "decimals": 6,
+  "status": "active",
+  "links": [
+    { "name": "twitter", "url": "https://twitter.com/yourhandle" }
+  ]
+}
